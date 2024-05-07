@@ -1,0 +1,4 @@
+﻿  github.cpp
+D:\github\github\github.cpp(54,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\github\github\github.cpp(58,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  github.vcxproj -> D:\github\github\x64\Debug\github.exe
